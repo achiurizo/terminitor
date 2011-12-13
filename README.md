@@ -44,7 +44,7 @@ Some of the cores that are available are:
  * [iTerm](https://github.com/achiu/consular-iterm) - Mac OS X iTerm
  * [Terminator](https://github.com/ilkka/consular-terminator) - Terminator
  * [Gnome](https://github.com/jc00ke/consular-gnome-terminal) - Gnome Terminal
- * [Gnome](https://github.com/gorkunov/consular-another-gnome-terminal) - Another Gnome Terminal Core
+ * [Gnome](https://github.com/gorkunov/consular-another-gnome-terminal) - Another Gnome Terminal Core that doesn't use xdotool)
 
 Feel free to contribute more cores so that Consular can support your terminal of choice :)
 
